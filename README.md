@@ -1,2 +1,2 @@
 # Countdown-timer
-## Vanilla JavaScript Countdown Timer with button
+## Vanilla JavaScript Countdown-Timer Button
